@@ -4,3 +4,5 @@ third commit
 
 FirstCommit to dev branch
 Second commit to dev branch
+
+1 additional commit to master for rebase
